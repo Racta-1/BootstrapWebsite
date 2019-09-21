@@ -1,0 +1,153 @@
+
+
+.navbar-dark .navbar-nav .nav-link{
+	color:black;
+}
+.navbar-dark .navbar-nav .nav-link:hover{
+	color:grey;
+}
+.navbar img{
+	height: 40px;
+	width: 100px;
+}
+
+
+.padding-top{
+	padding-top: 100px;
+}
+
+#furniture{
+	background-image: url(../images/opendesk.jpg);
+	background-position: center center;
+	height: 700px;
+	width: 100%;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+}
+#furniture .btn{
+	background-color: #008955;
+	border-color: #008955;
+	padding:7px 30px;
+	font-size: 15px;
+}
+#product{
+	background-color: #f1f1f1;
+	border-color: #e6e1e1;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+#product .col-4{
+	border: 5px solid #fbfbfb30;
+}
+#global{
+	background-image: url(../images/man.jpg);
+	background-position: center center;
+	height: 700px;
+	width: 100%;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+}
+#how-it-works .btn{
+	background-color: #008955;
+	border-color: #008955;
+	padding:7px 30px;
+	font-size: 15px;
+}
+
+
+#how-it-works h5{
+	padding-top: 30px;
+	padding-bottom: 120px;
+}
+#how-it-works{
+	background-color: #f1f1f1;
+	font-family: 'Roboto', sans-serif;
+}
+#how-it-works .text-center{
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+#how-it-works .fas{
+	font-size:120px;
+
+}
+#try{
+	background-image: url(../images/opendesk-2.jpg);
+	background-position: center center;
+	height: 700px;
+	width: 100%;
+	padding-bottom: 20px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+}
+#try .btn{
+	background-color: #d7d7d79c;
+	border-color: #d7d7d79c;
+	padding:7px 30px;
+	font-size: 15px;
+}
+#try .btn:hover{
+	background-color: #c1c1c100;
+	border-color: #d7d7d79c;
+}
+#video{
+	margin:  30px;
+	background-color: #f1f1f1;
+
+}
+#inspiring{
+	background-image: url(../images/peopleBench.jpg);
+	background-position: center center;
+	height: 700px;
+	width: 100%;
+	padding-bottom: 20px:
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+}
+#inspiring .btn{
+	background-color: #d7d7d79c;
+	border-color: #d7d7d79c;
+	padding:7px 30px;
+	font-size: 15px;
+}
+#inspiring .btn:hover{
+	background-color: #c1c1c100;
+	border-color: #d7d7d79c;
+}
+#guardian{
+	color:#6c6767;
+	padding-top: 90px;
+	padding-bottom: 90px;
+	font-size: 17px;
+	font-family: 'Roboto', sans-serif;
+}
+
+#footer{
+	background-color: #69696a;
+	font-size: 17px;
+	font-family: 'Roboto', sans-serif;
+}
+#footer img{
+	height: 40px;
+	width: 100px;
+}
+#footer:hover{
+	color: #69696a;
+}
+#footer .nav-item{
+	display: inline-block;
+	height: 100%;
+}
+#footer hr{
+	border-style: dotted;
+	border-color: white;
+}
+#footer .form-group input{
+	padding: 15px;
+}
+/*#footer .col img{
+	height: 100px;
+	width: 200px;
+	
+}*/
